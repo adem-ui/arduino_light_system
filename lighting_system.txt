@@ -1,0 +1,21 @@
+
+# Smart Light System Using Arduino
+
+This Arduino project simulates a basic home automation system. The system reads the ambient light level through an LDR sensor. When it gets dark (light value drops below a certain threshold), it automatically turns on a light source.
+
+## Components Used:
+- Arduino UNO
+- LDR Sensor
+- 10k Resistor
+- LED
+- (Optional) Relay Module
+
+## Features:
+- Automatic light control based on room brightness.
+- Can be expanded for real relay and smart light systems.
+- Built and tested using Tinkercad.
+
+## Skills Demonstrated:
+- Sensor input reading
+- Conditional logic
+- Hardware simulation
